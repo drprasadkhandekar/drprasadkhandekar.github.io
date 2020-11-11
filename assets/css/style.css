@@ -90,8 +90,8 @@ h6 {
 #header .profile img {
   margin: 15px auto;
   display: block;
-  width: 120px;
-  border: 8px solid #2c2f3f;
+  width: 150px;
+  border: 2px solid #d8dae4;
 }
 
 #header .profile h1 {
