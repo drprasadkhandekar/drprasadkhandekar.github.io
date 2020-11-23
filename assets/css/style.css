@@ -801,7 +801,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials .testimonial-item {
   box-sizing: content-box;
-  text-align: center;
+  text-align: justify;
   min-height: 320px;
 }
 
@@ -832,20 +832,21 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left {
   display: inline-block;
-  left: -5px;
-  position: relative;
+  left: 15px;
+  position: fixed;
+  top: 10px
 }
 
 .testimonials .testimonial-item .quote-icon-right {
   display: inline-block;
   right: -5px;
-  position: relative;
-  top: 10px;
+  position: static;
+  top: 150px;
 }
 .testimonial-item p {
   min-height: 60vh;
   display: flex;
-  align-items: center;
+ align-items: center;
 }
 .testimonials .testimonial-item p {
   font-style: italic;
