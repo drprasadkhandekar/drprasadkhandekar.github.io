@@ -805,6 +805,12 @@ section {
   min-height: 320px;
 }
 
+.testimonials .testimonial-item123 {
+  box-sizing: content-box;
+  text-align: center;
+  min-height: 320px;
+}
+
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
   border-radius: 50%;
@@ -816,6 +822,13 @@ section {
   font-weight: bold;
   margin: 10px 0 5px 0;
   color: #111;
+}
+
+.testimonials .testimonial-item h4 {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 10px 0 5px 0;
+  color: rgb(0, 0, 0);
 }
 
 .testimonials .testimonial-item h4 {
