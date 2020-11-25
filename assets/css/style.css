@@ -800,9 +800,9 @@ section {
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials .testimonial-item {
-  box-sizing: content-box;
+ /* box-sizing: content-box;*/
   text-align: justify;
-  min-height: 320px;
+  min-height: 50px;
 }
 
 .testimonials .testimonial-item100 {
@@ -814,7 +814,7 @@ section {
 .testimonials .testimonial-item123 {
   box-sizing: content-box;
   text-align: center;
-  min-height: 320px;
+  min-height: 50px;
 }
 
 .testimonials .testimonial-item .testimonial-img {
