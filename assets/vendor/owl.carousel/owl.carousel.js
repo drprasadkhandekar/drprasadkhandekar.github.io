@@ -324,7 +324,7 @@
 		}
 	}, {
 		filter: [ 'items', 'settings' ],
-		run: function() {
+		 run: function() {
 			var clones = [],
 				items = this._items,
 				settings = this.settings,
