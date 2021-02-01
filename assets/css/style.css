@@ -19,6 +19,12 @@ a {
   opacity: 0.4;
 }
 
+
+table, th, td {
+  border: 1px solid black;
+}
+
+
 @media (max-width: 768px) {
   .mit-logo {
     height: 8vh;
